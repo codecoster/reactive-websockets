@@ -1,4 +1,7 @@
-# ReactiveWebsocket
+# Reactive Websockets
+
+Beispielprojekt, welches die Verwendung von WebSockets mit Angular 2 zeigt.
+Exemplarisch wird die Anwendung per WebSocket an den Echo Test von websocket.org angebunden.
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.16.
 
